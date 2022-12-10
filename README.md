@@ -8,7 +8,7 @@ $ mkdir arrow && cd lineage
 
 # Init repo
 $ repo init -u https://github.com/LineageOS-UL/android.git -b lineage-20.0
-(already patched for ultra legacy devices)
+# (already patched for ultra legacy devices)
 
 # Clone my local repo
 $ git clone https://github.com/universalexynos7580/local_manifests.git -b lineage-20 .repo/local_manifests
