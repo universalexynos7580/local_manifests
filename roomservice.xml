@@ -17,6 +17,6 @@
     <project name="android_hardware_samsung_slsi_exynos7580" path="hardware/samsung_slsi/exynos7580" remote="universalexynos7580" revision="lineage-20" />
     <project name="android_hardware_samsung_slsi_openmax" path="hardware/samsung_slsi/openmax" remote="universalexynos7580" revision="lineage-20" />
     <project name="android_kernel_samsung_universal7580" path="kernel/samsung/universal7580" remote="universalexynos7580" revision="lineage-20-clang" />
-    <project path="prebuilts/clang/host/linux-x86/clang-proton" name="proton-clang" remote="universalexynos7580" revision="master" depth="1" />
+    <project name="proton-clang" path="prebuilts/clang/host/linux-x86/clang-proton" remote="universalexynos7580" revision="master" depth="1" />
     <project name="proprietary_vendor_samsung" path="vendor/samsung" remote="universalexynos7580" revision="lineage-20" />
 </manifest>
