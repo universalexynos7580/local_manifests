@@ -17,5 +17,5 @@ $ git clone https://github.com/universalexynos7580/local_manifests.git -b lineag
 $ repo sync --no-repo-verify -c --force-sync --no-clone-bundle --no-tags --optimized-fetch --prune -j`nproc` -v
 
 # Build example: replace "a3xelte" device codename with "your_device_codename"
-$ . build/envsetup.sh && brunch lineage_a3xelte-userdebug
+$ . build/envsetup.sh && brunch lineage_a3xelte-user
 ```
