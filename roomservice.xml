@@ -8,15 +8,15 @@
     <!-- Remote -->
     <remote fetch="https://github.com/universalexynos7580" name="universalexynos7580" />
     
-    <project name="android_device_samsung_j7elte" path="device/samsung/j7elte" remote="universalexynos7580" revision="lineage-20" />
-    <project name="android_device_samsung_a3xelte" path="device/samsung/a3xelte" remote="universalexynos7580" revision="lineage-20" />
-    <project name="android_device_samsung_universal7580-common" path="device/samsung/universal7580-common" remote="universalexynos7580" revision="lineage-20" />
-    <project name="android_hardware_lineage_interfaces_camera_device" path="device/samsung/universal7580-common/hidl" remote="universalexynos7580" revision="lineage-20-dt" />
-    <project name="android_hardware_samsung" path="hardware/samsung" remote="universalexynos7580" revision="lineage-20" />
-    <project name="android_hardware_samsung_slsi_exynos" path="hardware/samsung_slsi/exynos" remote="universalexynos7580" revision="lineage-20" />
-    <project name="android_hardware_samsung_slsi_exynos5" path="hardware/samsung_slsi/exynos5" remote="universalexynos7580" revision="lineage-20" />
-    <project name="android_hardware_samsung_slsi_exynos7580" path="hardware/samsung_slsi/exynos7580" remote="universalexynos7580" revision="lineage-20" />
-    <project name="android_hardware_samsung_slsi_openmax" path="hardware/samsung_slsi/openmax" remote="universalexynos7580" revision="lineage-20" />
-    <project name="android_kernel_samsung_universal7580" path="kernel/samsung/universal7580" remote="universalexynos7580" revision="lineage-20-clang" />
-    <project name="proprietary_vendor_samsung" path="vendor/samsung" remote="universalexynos7580" revision="lineage-20" />
+    <project name="android_device_samsung_j7elte" path="device/samsung/j7elte" remote="universalexynos7580" revision="lineage-21" />
+    <project name="android_device_samsung_a3xelte" path="device/samsung/a3xelte" remote="universalexynos7580" revision="lineage-21" />
+    <project name="android_device_samsung_universal7580-common" path="device/samsung/universal7580-common" remote="universalexynos7580" revision="lineage-21" />
+    <project name="android_hardware_lineage_interfaces_camera_device" path="device/samsung/universal7580-common/hidl" remote="universalexynos7580" revision="lineage-21-dt" />
+    <project name="android_hardware_samsung" path="hardware/samsung" remote="universalexynos7580" revision="lineage-21" />
+    <project name="android_hardware_samsung_slsi_exynos" path="hardware/samsung_slsi/exynos" remote="universalexynos7580" revision="lineage-21" />
+    <project name="android_hardware_samsung_slsi_exynos5" path="hardware/samsung_slsi/exynos5" remote="universalexynos7580" revision="lineage-21" />
+    <project name="android_hardware_samsung_slsi_exynos7580" path="hardware/samsung_slsi/exynos7580" remote="universalexynos7580" revision="lineage-21" />
+    <project name="android_hardware_samsung_slsi_openmax" path="hardware/samsung_slsi/openmax" remote="universalexynos7580" revision="lineage-21" />
+    <project name="android_kernel_samsung_universal7580" path="kernel/samsung/universal7580" remote="universalexynos7580" revision="lineage-21-clang" />
+    <project name="proprietary_vendor_samsung" path="vendor/samsung" remote="universalexynos7580" revision="lineage-21" />
 </manifest>
